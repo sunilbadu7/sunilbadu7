@@ -1,4 +1,4 @@
-![logo](https://github.com/sunilbadu7/sunilbadu7/blob/main/Gemini_Generated_Image_flv0dyflv0dyflv0.png)
+![logo]([https://github.com/sunilbadu7/sunilbadu7/blob/main/Gemini_Generated_Image_flv0dyflv0dyflv0.png](https://github.com/sunilbadu7/sunilbadu7/blob/main/a%20YouTube%20banner%20fea.png))
 <h1 align="center">Hi 👋, I'm Sunil Datta Badu</h1>
 <h3 align="center">A passionate computer engineering student from Nepal</h3>
 
